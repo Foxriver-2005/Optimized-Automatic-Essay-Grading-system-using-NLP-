@@ -1,7 +1,18 @@
 # Optimized-Automatic-Essay-Grading-system-using-NLP-
 
-![i](https://github.com/user-attachments/assets/9d33d9cf-49ed-44eb-976f-46a6c3bb0896)
+![image](https://github.com/user-attachments/assets/c7571ca1-a1b9-4b9c-9b49-c3029e3766bb)
 
-![ii](https://github.com/user-attachments/assets/7920dd76-541b-4b31-9946-f89c5cbd19d8)
 
-![iii](https://github.com/user-attachments/assets/383a1a79-ec3d-474e-875b-ed60f5896faa)
+![image](https://github.com/user-attachments/assets/b6ebf06c-2263-44bf-a671-0b1fb138a5e9)
+
+
+![image](https://github.com/user-attachments/assets/67632060-bf40-4c79-b3d6-59896b08a71e)
+
+
+![image](https://github.com/user-attachments/assets/d05325cc-d6dd-44f7-8cd5-11b4ef8b672f)
+
+
+![image](https://github.com/user-attachments/assets/ea9233dd-43aa-4c5a-82ec-b9e090d53264)
+
+
+
